@@ -18,7 +18,7 @@ O projeto é composto por:
 
 O back-end do **SmartEnergy** está disponível em um repositório separado. Clique aqui para acessá-lo:
 
-👉 [Repositório do Back-end SmartEnergy](https://github.com/felipesora/API-Java-SmartEnergy)
+👉 [Repositório do Back-end SmartEnergy](https://github.com/felipepizzinato/smart-energy-backend)
 
 Baixe o projeto e rode a classe *Main* para poder usar a API em Front.
 
